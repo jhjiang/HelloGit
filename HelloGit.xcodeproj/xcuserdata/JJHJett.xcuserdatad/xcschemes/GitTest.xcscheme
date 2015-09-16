@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "124FFB191BA025680041B0A2"
-               BuildableName = "GitTest.app"
-               BlueprintName = "GitTest"
-               ReferencedContainer = "container:GitTest.xcodeproj">
+               BuildableName = "HelloGit.app"
+               BlueprintName = "HelloGit"
+               ReferencedContainer = "container:HelloGit.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -29,9 +29,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "124FFB321BA025680041B0A2"
-               BuildableName = "GitTestTests.xctest"
-               BlueprintName = "GitTestTests"
-               ReferencedContainer = "container:GitTest.xcodeproj">
+               BuildableName = "HelloGitTests.xctest"
+               BlueprintName = "HelloGitTests"
+               ReferencedContainer = "container:HelloGit.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -47,9 +47,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "124FFB321BA025680041B0A2"
-               BuildableName = "GitTestTests.xctest"
-               BlueprintName = "GitTestTests"
-               ReferencedContainer = "container:GitTest.xcodeproj">
+               BuildableName = "HelloGitTests.xctest"
+               BlueprintName = "HelloGitTests"
+               ReferencedContainer = "container:HelloGit.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -57,9 +57,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "124FFB191BA025680041B0A2"
-            BuildableName = "GitTest.app"
-            BlueprintName = "GitTest"
-            ReferencedContainer = "container:GitTest.xcodeproj">
+            BuildableName = "HelloGit.app"
+            BlueprintName = "HelloGit"
+            ReferencedContainer = "container:HelloGit.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -77,9 +77,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "124FFB191BA025680041B0A2"
-            BuildableName = "GitTest.app"
-            BlueprintName = "GitTest"
-            ReferencedContainer = "container:GitTest.xcodeproj">
+            BuildableName = "HelloGit.app"
+            BlueprintName = "HelloGit"
+            ReferencedContainer = "container:HelloGit.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -96,9 +96,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "124FFB191BA025680041B0A2"
-            BuildableName = "GitTest.app"
-            BlueprintName = "GitTest"
-            ReferencedContainer = "container:GitTest.xcodeproj">
+            BuildableName = "HelloGit.app"
+            BlueprintName = "HelloGit"
+            ReferencedContainer = "container:HelloGit.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
